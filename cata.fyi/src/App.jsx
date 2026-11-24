@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router";
-import Pensamientos from "./pages/pensamientos";
+import Pensamientos from "./pages/nov23";
 
 function Home() {
   return (
@@ -7,7 +7,7 @@ function Home() {
       <h1>Cata</h1>
       <p>Lo que pienso</p>
       <hr />
-      <p><Link to="/pensamientos">hoy</Link></p>
+      <p><Link to="/nov23">que haria si el dinero no fuese un problema?</Link></p>
     </>
   );
 }
