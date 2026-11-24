@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router";
-import nov23 from "./pages/nov23";
+import Nov23 from "./pages/nov23";
 
 function Home() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <main style={{ fontFamily: "system-ui", maxWidth: 640, margin: "80px auto", padding: 20 }}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/nov23" element={<nov23/>} />
+          <Route path="/nov23" element={<Nov23 />} />
         </Routes>
       </main>
     </BrowserRouter>
