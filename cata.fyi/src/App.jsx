@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router";
-import Pensamientos from "./pages/nov23";
+import nov23 from "./pages/nov23";
 
 function Home() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <main style={{ fontFamily: "system-ui", maxWidth: 640, margin: "80px auto", padding: 20 }}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/pensamientos" element={<Pensamientos />} />
+          <Route path="/nov23" element={<nov23 />} />
         </Routes>
       </main>
     </BrowserRouter>

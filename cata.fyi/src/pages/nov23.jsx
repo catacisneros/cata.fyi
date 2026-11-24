@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-export default function Pensamientos() {
+export default function nov23() {
   return (
     <>
       <Link to="/">← Volver</Link>
