@@ -6,7 +6,8 @@ function Home() {
     <>
       <h1>Cata</h1>
       <p>Lo que pienso</p>
-      <p><Link to="/pensamientos">Pensamientos</Link></p>
+      <p></p>
+      <p><Link to="/pensamientos">hoy</Link></p>
     </>
   );
 }
