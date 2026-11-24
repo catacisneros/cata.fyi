@@ -6,7 +6,7 @@ function Home() {
     <>
       <h1>Cata</h1>
       <p>Lo que pienso</p>
-      <hr></hr>
+      <hr />
       <p><Link to="/pensamientos">hoy</Link></p>
     </>
   );
