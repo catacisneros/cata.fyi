@@ -18,7 +18,7 @@ function App() {
       <main style={{ fontFamily: "system-ui", maxWidth: 640, margin: "80px auto", padding: 20 }}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/nov23" element={<nov23 />} />
+          <Route path="/nov23" element={<nov23/>} />
         </Routes>
       </main>
     </BrowserRouter>
