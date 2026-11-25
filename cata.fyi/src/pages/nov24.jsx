@@ -43,7 +43,9 @@ export default function Nov24() {
         ganarme la vida? fuck sinceramente no se, creo que puede ser un problema de pereza? 
         <br /> estoy aburrida de social media. ahora tengo wiki.cata pero bruh me da 
         tanta pereza de verdad. ojala me pudieran pagar por leer & aprender. maybe volver a 
-        la uni a terminar de estudiar fisica? <br /> tal vez me dedicaria a hacer amigos
+        la uni a terminar de estudiar fisica? podria empezar otra carrera tambien? 
+        <Link to="/nov242"> psicologia? sociologia? historia? </Link> online
+        <br /> tal vez me dedicaria a hacer amigos
         aunque no tenga ni la menor idea de como jajajajja
         <br /> <br /> en cinco anos estaria de vuelta viviendo en USA (si es que me voy)
         ya sea con un negocio propio o trabajando en un mejor puesto de una empresa. 
@@ -57,7 +59,10 @@ export default function Nov24() {
         de todos los deportes que hay, f1, iria a eventos de arte, museos, galerias, galas, etc. Me
         haria amiga de gente famosa asi que tambien me invitarian a eventos mas exclusivos. 
         <br /> pasaria mucho tiempo con mi familia y amigos. Los visitaria mas seguido y les 
-        llevaria regalos super cheveres. ahora que voy a tener un sobrino me dedicaria mucho a el
+        llevaria regalos super cheveres. ahora que voy a tener un sobrino me dedicaria mucho a el <br />
+        tambien haria esto - paginas web por diversion que nadie vea y que a nadie le importe
+        leer, escribir mucho (journal y libro), hacer esta pagina que lees como hobbie porque jajajaj
+        nadie sabe que es ni que existe y en caso de que si, pues que aburrido leer todo esto,
         <hr />
         <br /> fun fact estoy comiendo cena de hombre: puse carne molida
         en una olla y coditos de pasta en otro y solo lo mezcle con mantequilla
