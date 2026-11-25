@@ -37,7 +37,7 @@ export default function Nov24() {
         cocina u hosteleria a Paris (me lo acabo de inventar esto no lo habia pensado 
         jajajaj) <br /> no creo que retomaria cybercata, genuinamente me aburri de eso y 
         creo que de ciberseguridad en general pero la verdad no tengo ni idea de porque wtf
-        <h5>por que lo que me apasionaba ya no lo hace (cyber)?</h5>
+        <h6>por que lo que me apasionaba ya no lo hace (cyber)?</h6>
         la verdad no tengo ni puta idea de que haria y creo que eso es lo que me choca. 
         <br /> que haria si me obligaran a cambiar? para que mas sirvo? o que haria para
         ganarme la vida? fuck sinceramente no se, creo que puede ser un problema de pereza? 
