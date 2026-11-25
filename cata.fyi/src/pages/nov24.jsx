@@ -62,7 +62,7 @@ export default function Nov24() {
         <br /> fun fact estoy comiendo cena de hombre: puse carne molida
         en una olla y coditos de pasta en otro y solo lo mezcle con mantequilla
         <br /> tengo que aprender a cocinar. tax below: <br />
-        <img src="/nov24-1.jpg" style={{ width: "50px", height: "auto" }} />
+        <img src="/nov24-1.jpg" style={{ width: "200px", height: "auto" }} />
       </p>
     </>
   );
