@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-export default function Pensamientos() {
+export default function Nov24() {
   return (
     <>
       <Link to="/">← Volver</Link>
@@ -18,7 +18,8 @@ export default function Pensamientos() {
 
         <hr />
         <br /> fun fact estoy comiendo cena de hombre: puse carne molida
-        en una olla y coditos de pasta en otro y solo lo mezcle 
+        en una olla y coditos de pasta en otro y solo lo mezcle con mantequilla
+        <br /> tengo que aprender a cocinar. tax below: <br />
         <img src="/nov24-1.jpg" />
       </p>
     </>
