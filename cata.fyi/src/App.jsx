@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router";
 import Nov23 from "./pages/nov23";
 import Nov24 from "./pages/nov24";
+import Nov242 from "./pages/nov242";
 
 function Home() {
   return (
@@ -10,6 +11,7 @@ function Home() {
       <hr />
       <p><Link to="/nov23">que haria si el dinero no fuese un problema?</Link></p>
       <p><Link to="/nov24">tres escenarios de vida</Link></p>
+      <p><Link to="/nov242">psicologia?</Link></p>
     </>
   );
 }
@@ -22,6 +24,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/nov23" element={<Nov23 />} />
           <Route path="/nov24" element={<Nov24 />} />
+          <Route path="/nov242" element={<Nov242 />} />
         </Routes>
       </main>
     </BrowserRouter>
