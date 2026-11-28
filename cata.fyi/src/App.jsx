@@ -15,7 +15,7 @@ function Home() {
       <p><Link to="/nov24">tres escenarios de vida</Link></p>
       <p><Link to="/nov242">psicologia?</Link></p>
       <p><Link to="/nov26">thanksgiving</Link></p>
-      <p><Link to="/nov27">commit obligado</Link></p>
+      <p><Link to="/nov27">soledad pt. 1</Link></p>
     </>
   );
 }
