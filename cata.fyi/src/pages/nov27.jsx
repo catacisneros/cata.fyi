@@ -9,7 +9,7 @@ export default function nov27() {
       <p>
         estoy en espera, en quiebra<br />
         espera de que alguien llegue o algo cambie<br />
-        quebrara por dentro, por la soledad<br />
+        quebrada por dentro, por la soledad<br />
         <br />
         <br />
         es viernes y si el cuerpo no lo sabe, haz que lo sepa<br />
