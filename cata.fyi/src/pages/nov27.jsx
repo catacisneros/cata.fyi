@@ -52,9 +52,13 @@ export default function nov27() {
         <br />
       </p>
 
-      <h3>la soledad</h3>
+      <h3>?</h3>
       <p>
-        
+        thinking about loneliness <br />
+        thinking im having surgery in less than 1 week <br />
+        thinking that no one will come visit <br />
+        thinking that no one will send flowers <br />
+        not even a get well soon card...
       </p>
     </>
   );
