@@ -58,7 +58,8 @@ export default function nov27() {
         thinking im having surgery in less than 1 week <br />
         thinking that no one will come visit <br />
         thinking that no one will send flowers <br />
-        not even a get well soon card...
+        not even a get well soon card...<br />
+        i guess it is what it is.
       </p>
     </>
   );
