@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 
-export default function nov242() {
+export default function Nov24-2() {
   return (
     <>
       <Link to="/">← Volver</Link>
