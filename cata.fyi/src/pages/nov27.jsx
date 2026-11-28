@@ -21,7 +21,7 @@ export default function nov27() {
         contengo mis lagrimas por querer bailar<br />
         porque sin pena despues no puedo brillar<br />
         me encanta reirme, compartir, querer<br />
-        pero que lastima que sola no lo puedo hacer<br />
+        que lastima que sola no lo puedo hacer<br />
         <br />
         <br />
         la soledad me acecha<br />
@@ -49,6 +49,11 @@ export default function nov27() {
         <br />
         <br />
         me hace falta una amiga<br />
+        <br />
+      </p>
+
+      <h3>la soledad</h3>
+      <p>
         
       </p>
     </>
