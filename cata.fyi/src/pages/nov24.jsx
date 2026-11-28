@@ -63,12 +63,21 @@ export default function Nov24() {
         tambien haria esto - paginas web por diversion que nadie vea y que a nadie le importe
         leer, escribir mucho (journal y libro), hacer esta pagina que lees como hobbie porque jajajaj
         nadie sabe que es ni que existe y en caso de que si, pues que aburrido leer todo esto,
+
+        
         <hr />
         <br /> fun fact estoy comiendo cena de hombre: puse carne molida
         en una olla y coditos de pasta en otro y solo lo mezcle con mantequilla
         <br /> tengo que aprender a cocinar. tax below: <br />
         <img src="/nov24-1.jpg" style={{ width: "200px", height: "auto" }} />
       </p>
+
+      <h3>psicologia?</h3>
+      <p>y si me meto a hacer psicologia? maybe online??? que aburrido en verdad volver a la uni
+        pero es una idea para explorar, maybe hacer cursos en youtube o asi?
+      </p>
+
+      
     </>
   );
 }
